@@ -25,6 +25,6 @@ Clair needs to determine eligibility for incoming users using Plaid transaction 
 3. How would you measure the efficacy of the determined eligibility criteria?
 4. What are some considerations or pitfalls to be aware of when analyzing results?
 
-A `plaid_transactions_sample` table is available for reference, also hosted on a cloud-hosted PostgreSQL database from Part I.
+A `plaid_transactions_sample` table (1,703 rows) is available for reference, also hosted on a cloud-hosted PostgreSQL database from Part I.
 
 _Note: We aren’t expecting you to develop features or write any code for this. We want you to take us through the process you would undertake to make a determination of eligibility._
