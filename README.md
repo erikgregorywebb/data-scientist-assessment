@@ -1,6 +1,6 @@
 ### Background
 
-At Clair, we are on a mission to create financial freedom for America's workers by giving them access to free wage advances so they can be paid as soon as they clock out of work. Clair partners with Time & Attendance and Payroll providers to receive data on employees, including shifts they work or salaries they earn. Using this data, Clair underwrites the employees for loans (wage advances) to provide liquidity between their paychecks. When payday comes, Clair recoups the funds advanced by debiting the employee’s bank account. In order to facilitate that repayment, Clair must know what day in the future to expect a paycheck to land in the employee’s bank account.
+At Clair, we're on a mission to create financial freedom for America's workers by giving them access to free wage advances so they can be paid as soon as they clock out of work. Clair partners with Time & Attendance and Payroll providers to receive data on employees, including shifts they work or salaries they earn. Using this data, Clair underwrites the employees for loans (wage advances) to provide liquidity between their paychecks. When payday comes, Clair recoups the funds advanced by debiting the employee’s bank account. In order to facilitate that repayment, Clair must know what day in the future to expect a paycheck to land in the employee’s bank account.
 
 ### Part I
 
