@@ -6,7 +6,7 @@ At Clair, we are on a mission to create financial freedom for America's workers 
 
 Prepare a model that predicts the next paycheck date for an employee given a history of previous paycheck deposits. The deliverable is a Jupyter notebook with your model, complete with prediction generation and accuracy measurement. 
 
-Leverage the `paychecks_train` and `paychecks_test` tables hosted on a cloud-hosted PostgreSQL database:
+Leverage the `paychecks` table hosted on a cloud-hosted PostgreSQL database:
 
 ```
 Host: pg-285c4482-getclair-7a3a.a.aivencloud.com
